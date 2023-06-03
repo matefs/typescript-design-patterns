@@ -1,6 +1,6 @@
 ## Typescript design patterns in practice 
 
-Note: The files are inside `src` directory
+Note: The main files are inside `src` directory
 
 ## how to install 
 ```bash
