@@ -24,8 +24,8 @@ ts-node src/mediator.ts
     - Builder - vai se construíndo aos poucos, a cada método adiciona uma nova informação no objeto (classe)
 
 - Structural - estrutural (pt-br) 
-    - facade é fechado. 
-
+    - facade é fechado, serve para deixar mais intuitivo trabalhar com um objeto complexo, faz que você não precise conhecer todos os detalhes internos.
+    - 
 
 ### When to refactor - Quando refatorar (pt-br)
 
