@@ -28,8 +28,8 @@ ts-node src/mediator.ts
     - proxy - é como um substituto, uma alternativa quando você possui um objeto grande e não deseja duplicá-lo, a fim de evitar o uso excessivo de memória.
 
 - Behavioral - comportamental (pt-br)
-    - iterator - fornece uma maneira de acessar elementos de uma coleção sequencial de maneira consistente
-    - observer - 
+    - iterator - fornece uma maneira de acessar elementos de uma coleção sequencial de maneira consistente. Abstração que serve para puxar.
+    - observer - básicamente vai fazer uma atitude para cada observador que existir em uma lista. Abstração que serve para empurrar.
 
 
 ### When to refactor - Quando refatorar (pt-br)
