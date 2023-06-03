@@ -24,8 +24,13 @@ ts-node src/mediator.ts
     - Builder - vai se construíndo aos poucos, a cada método adiciona uma nova informação no objeto (classe)
 
 - Structural - estrutural (pt-br) 
-    - facade é fechado, serve para deixar mais intuitivo trabalhar com um objeto complexo, faz que você não precise conhecer todos os detalhes internos.
-    - 
+    - facade (fechado), serve para deixar mais intuitivo trabalhar com um objeto complexo, faz que você não precise conhecer todos os detalhes internos.
+    - proxy - é como um substituto, uma alternativa quando você possui um objeto grande e não deseja duplicá-lo, a fim de evitar o uso excessivo de memória.
+
+- Behavioral - comportamental (pt-br)
+    - iterator - fornece uma maneira de acessar elementos de uma coleção sequencial de maneira consistente
+    - observer - 
+
 
 ### When to refactor - Quando refatorar (pt-br)
 
