@@ -10,7 +10,7 @@ npm install
 
 - Install ts-node
 ```bash
-npm install ts-node --global
+npm install -g ts-node
 ```
 
 
