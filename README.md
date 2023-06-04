@@ -3,7 +3,8 @@
 
 This repository contains examples of various design patterns implemented in TypeScript. The main files can be found in the **`src`** directory.
 
-![image](https://github.com/matefs/typescript-design-patterns/assets/30128774/c348acda-46e3-4bdc-8dbb-941233e0a2b0)
+![image](https://github.com/matefs/typescript-design-patterns/assets/30128774/74bb75b3-7733-4441-9d85-a4910249134e)
+
 
 
 ## **How to Install**
@@ -18,6 +19,12 @@ git clone https://github.com/matefs/typescript-design-patterns.git
 
 ```
 npm install
+```
+
+- Install ts-node for running the `.ts` files:
+
+```
+npm install -g ts-node 
 ```
 
 ## **How to Run**
