@@ -3,9 +3,16 @@
 Note: The main files are inside `src` directory
 
 ## how to install 
+- Install the repository
 ```bash
 npm install 
 ```
+
+- Install ts-node
+```bash
+npm install ts-node --global
+```
+
 
 
 ## How to run 
@@ -30,6 +37,8 @@ ts-node src/mediator.ts
 - Behavioral - comportamental (pt-br)
     - iterator - fornece uma maneira de acessar elementos de uma coleção sequencial de maneira consistente. Abstração que serve para puxar.
     - observer - básicamente vai fazer uma atitude para cada observador que existir em uma lista. Abstração que serve para empurrar.
+    - mediator (mediador) - proporciona uma maneira organizada e centralizada para que um grupo de objetos se comunique entre si, ajudando a reduzir o acoplamento e simplificar a interação entre ele
+    - state -  permite que objetos tenham diferentes comportamentos com base em seu estado interno, facilitando a adição de novos comportamentos e evitando a necessidade de muitas declarações condicionais no código
 
 
 ### When to refactor - Quando refatorar (pt-br)
