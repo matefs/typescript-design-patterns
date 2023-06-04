@@ -64,7 +64,6 @@ ts-node src/mediator.ts
     2. When you do something similar for the second time, cringe at having to repeat but do the same thing anyway.
     3. When you do something for the third time, start refactoring.
 
-Feel free to explore the examples and contribute to this repository. If you have any questions or suggestions, please feel free to reach out.
 
 ### References:
 
@@ -76,3 +75,6 @@ Website: Refactoring Guru - Design Patterns
 
 - Link: https://refactoring.guru/design-patterns/
     - Description: Refactoring Guru is a comprehensive online resource that provides detailed explanations and examples of various design patterns. The Design Patterns section of the website offers a wealth of information, including the principles, intent, structure, implementation details, and code examples for each pattern. It serves as a valuable reference for understanding and applying design patterns in software development.
+
+Feel free to explore the examples and contribute to this repository. If you have any questions or suggestions, please feel free to reach out.
+
