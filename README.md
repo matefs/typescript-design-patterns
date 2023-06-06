@@ -7,6 +7,7 @@ This repository contains examples of various design patterns implemented in Type
 
 
 
+
 ## **How to Install**
 
 - Clone the repository:
