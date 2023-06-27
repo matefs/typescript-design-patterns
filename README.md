@@ -6,8 +6,6 @@ This repository contains examples of various design patterns implemented in Type
 ![image](https://github.com/matefs/typescript-design-patterns/assets/30128774/74bb75b3-7733-4441-9d85-a4910249134e)
 
 
-
-
 ## **How to Install**
 
 - Clone the repository:
