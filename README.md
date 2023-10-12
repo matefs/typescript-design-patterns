@@ -44,17 +44,27 @@ ts-node src/mediator.ts
 
 - Creational Patterns:
     - Singleton: Ensures that only one instance of a class is created and provides a global point of access to it.
+![image](https://github.com/matefs/typescript-design-patterns/assets/30128774/bf872ec1-0d16-42b3-acef-da45dd2cffd1)
     - Prototype: Allows objects to be cloned, providing a way to create new objects without explicitly using the **`new`** keyword.
+ - ![image](https://github.com/matefs/typescript-design-patterns/assets/30128774/2405d211-bb69-4cd7-b183-4bde3470bd9a)
     - Factory: Provides an interface for creating objects, but allows subclasses to decide which class to instantiate.
     - Builder: Separates the construction of a complex object from its representation, allowing the same construction process to create different representations.
 - Structural Patterns:
     - Facade: Provides a simplified interface to a complex subsystem, making it easier to use and reducing dependencies.
+![image](https://github.com/matefs/typescript-design-patterns/assets/30128774/195f881a-d0f1-4529-baf1-bc4ce31e0c5b)
     - Proxy: Provides a surrogate or placeholder for another object to control access to it, adding additional functionality.
+![image](https://github.com/matefs/typescript-design-patterns/assets/30128774/874d28e4-c0b5-48c8-8d6c-a50405418424)
 - Behavioral Patterns:
     - Iterator: Provides a way to access elements of a collection sequentially without exposing its underlying representation.
     - Observer: Defines a one-to-many dependency between objects, so that when one object changes state, all its dependents are notified and updated automatically.
-    - Mediator: Provides a centralized way for a set of objects to communicate with each other, reducing the direct dependencies between them.
+    - ![image](https://github.com/matefs/typescript-design-patterns/assets/30128774/284415d9-da72-4441-ab01-815d463acee1)
+
+    - Mediator: Provides a centralized way for a set of objects to communicate with each other, reducing the direct dependencies between them. 
+![image](https://github.com/matefs/typescript-design-patterns/assets/30128774/4734b7b7-42f4-49eb-9806-81b7bdbca3fb)
+
     - State: Allows an object to alter its behavior when its internal state changes, encapsulating the behavior within state-specific classes.
+![image](https://github.com/matefs/typescript-design-patterns/assets/30128774/6404ed9c-245b-43a1-9515-3a5f69bd0a1b)
+
 
 ### **When to Refactor**
 
